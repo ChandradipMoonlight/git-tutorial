@@ -1,1 +1,5 @@
 git branch -M main ==>//to change branch name in local m/change
+git checkout -b "banch_name" ==> to crate branch and checkout at time
+git stautus => to check current branch
+git add <fileName> => to add the file fileName into the staging area.
+git commit -m "mesasage" => to commit the changes 
