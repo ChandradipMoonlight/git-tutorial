@@ -1,1 +1,3 @@
 git branch -M main ==>//to change branch name in local m/change
+git checkout -b "banch_name" ==> to crate branch and checkout at time
+git stautus => to check current branch 
